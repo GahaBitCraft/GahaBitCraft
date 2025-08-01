@@ -10,7 +10,7 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.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 }}
           user: gahabitcraft
           template: classic
           base: header, activity, community, repositories, metadata
