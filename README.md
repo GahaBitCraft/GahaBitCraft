@@ -72,5 +72,5 @@ Happy coding! 💙
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahabitcraft&layout=compact&theme=nightowl&border_radius=15&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
 
-![Metrics](https://github.com/gahabitcraft/gahabitcraft/blob/main/github-metrics.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GahaBitCraft&theme=highcontrast)](https://git.io/streak-stats)
 ---
