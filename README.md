@@ -1,4 +1,5 @@
-👋 Hey there! I'm Janak Raj Gaha (aka GahaBitCraft) 🚀
+<h1 align="center">Hi 👋, I'm Janak Raj Gaha (aka GahaBitCraft) 🚀</h1>
+<h3 align="center">Full-Stack Developer | Mobile Craftsman | Backend Engineer</h3>
 
 ---
 
