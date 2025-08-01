@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   schedule: [{cron: "0 0 * * 0"}]  # Updates every Sunday
   workflow_dispatch:
@@ -18,3 +19,8 @@ jobs:
           plugin_languages: yes
           plugin_stargazers: yes
           plugin_followup: yes
+
+      - name: Test repo access with PAT
+        run: |
+          curl -H "Authorization: token ${{ secrets.JRG_METRICS_TOKEN }}" \
+          https://api.github.com/repos/gahabitcraft/gahabitcraft
