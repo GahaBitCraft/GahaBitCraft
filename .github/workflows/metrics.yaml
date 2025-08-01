@@ -11,7 +11,7 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.JRG_METRICS_TOKEN }}
+          token: ${{ secrets.GBC_ACCESS_TOKEN }}
           user: gahabitcraft
           template: classic
           base: header, activity, community, repositories, metadata
