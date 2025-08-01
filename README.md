@@ -29,10 +29,10 @@ I love tackling real-world problems with **efficient and elegant solutions**. If
 ---
 
 ## 💬 Let's Connect  
-📩 **Email:** janak.gaha.dev@gmail.com  
-🌍 **Portfolio:** [Coming Soon]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-🐦 **Twitter/X:** [Your Twitter Handle]  
+📩 **Email:** janak.raj.gaha.dev@gmail.com  
+🌍 **Portfolio:** https://gahabitcraft.github.io/jrg/ 
+<!-- 💼 **LinkedIn:** [Your LinkedIn Profile]  
+🐦 **Twitter/X:** [Your Twitter Handle]  -->
 
 🚀 **Fun Fact:** I believe **"Coding is like magic, but with logic!"** ✨  
 
